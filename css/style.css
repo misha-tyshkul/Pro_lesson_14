@@ -1,0 +1,14 @@
+.form {
+  display: inline-block;
+}
+
+.container {
+  display: none;
+  width: 100px;
+  height: 60px;
+  background: red;
+}
+
+.show {
+  display: inline-block;
+}
